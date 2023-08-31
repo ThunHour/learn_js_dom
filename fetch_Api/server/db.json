@@ -1,0 +1,34 @@
+{
+  "MemberDetain": [
+    {
+      "id": "001",
+      "name": "Seak Kimhour",
+      "position": "Co-leader",
+      "Location": "PhnomPenh"
+    },
+    {
+      "id": "002",
+      "name": "Srun China",
+      "position": "Member",
+      "Location": "PhnomPenh"
+    },
+    {
+      "id": "003",
+      "name": "Hout Monirith",
+      "position": "Leader",
+      "Location": "PhnomPenh"
+    },
+    {
+      "id": "004",
+      "name": "Hai seanghor",
+      "position": "Member",
+      "Location": "Prehveng"
+    },
+    {
+      "id": "005",
+      "name": "Am CheaChamreoun",
+      "position": "Member",
+      "Location": "PhnomPenh"
+    }
+  ]
+}
